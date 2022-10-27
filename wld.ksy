@@ -7,7 +7,7 @@ meta:
     - file_info_0x03
     - simple_sprite_def_0x04
     - simple_sprite_0x05
-    - 2d_sprite_def_0x06
+    - two_d_sprite_def_0x06
     - particle_sprite_def_0x0c
     - particle_sprite_0x0d
     - track_def_0x12
