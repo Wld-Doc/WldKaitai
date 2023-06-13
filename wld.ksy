@@ -13,6 +13,7 @@ meta:
     - track_def_0x12
     - track_0x13
     - sphere_0x16
+    - polyhedron_def_0x17
     - polyhedron_0x18
     - sphere_list_def_0x19
     - sphere_list_0x1a
@@ -137,7 +138,7 @@ types:
             # 0x14: actor_def_0x14 # TODO: ACTORDEF
             # 0x15: actor_0x15 # TODO: ACTORINST
             0x16: sphere_0x16 # SPHERE
-            # 0x17: polyhedron_def_0x17 # TODO: POLYHEDRONDEFINITION
+            0x17: polyhedron_def_0x17 # POLYHEDRONDEFINITION
             0x18: polyhedron_0x18 # POLYHEDRON
             0x19: sphere_list_def_0x19 # SPHERELISTDEFINITION
             0x1a: sphere_list_0x1a # SPHERELIST
